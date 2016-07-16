@@ -1,1 +1,1 @@
-# active_NER
+# active learning for NER
